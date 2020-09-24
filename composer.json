@@ -18,6 +18,7 @@
         "viacreative/sudo-su": "^1.1"
     },
     "require-dev": {
+        "barryvdh/laravel-ide-helper": "^2.8",
         "beyondcode/dusk-dashboard": "^2.0",
         "facade/ignition": "^2.0",
         "fzaninotto/faker": "^1.9.1",
